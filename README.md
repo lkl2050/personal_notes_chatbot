@@ -1,4 +1,4 @@
-# Personal Chatbot Built on Personal Obsidian Notes, Dairy and Wechat conversation history
+# Cairo's Personal Chatbot 
 #### - This project used ollama and llamaindex to create a chatbot based on all my personal data, including obsidian notes, dairy stored at Lifelight, and weChat conversation history. It is an ambitious project to organize my digital life.
 #### - The chatbot can utilize both locally hosted small models (1.1B tinyllama or tinydolphin) and connects to big LLM models via Chatgpt or Claude API
 
