@@ -2,7 +2,7 @@
 #### - This project used ollama and llamaindex to create a chatbot based on all my personal data, including obsidian notes, dairy stored at Lifelight, and weChat conversation history. It is an ambitious project to organize my digital life.
 #### - The chatbot can utilize both locally hosted small models (1.1B tinyllama or tinydolphin) and connects to big LLM models via Chatgpt or Claude API
 
-#### Current state: allows 4 types of interactions with my chatbot and retrieve, organize, and summarize useful information from my knowledge base
+#### - Current state: allows 4 types of interactions with my chatbot and retrieve, organize, and summarize useful information from my knowledge base
 
 #### Example usage
 Options:
