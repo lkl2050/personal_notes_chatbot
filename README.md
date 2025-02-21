@@ -11,9 +11,10 @@ Options:
 3. Search notes
 4. Exit
 Debug: User selected option: '1'
-Processing chat query: summarize my notes about transformers
 
-Response:  The context provided in your notes revolves around transformers which are a family of neural network architectures and models that have been widely adopted for natural language processing tasks such as machine translation, summarization, and sentiment analysis. Transformers are composed of multiple layers, each with its own set of learnable parameters or 'heads'. In this context, we are discussing the transformer architecture and how it is used to perform language translation tasks.
+**Processing chat query**: summarize my notes about transformers
+
+**Response**:  The context provided in your notes revolves around transformers which are a family of neural network architectures and models that have been widely adopted for natural language processing tasks such as machine translation, summarization, and sentiment analysis. Transformers are composed of multiple layers, each with its own set of learnable parameters or 'heads'. In this context, we are discussing the transformer architecture and how it is used to perform language translation tasks.
 
 The question you posed is about a transformer's ability to perform well on complex natural language understanding tasks, such as summarization and sentiment analysis. Transformers have shown to outperform traditional machine learning approaches in these domains by being able to learn complex relationships between words, sentences, and even entire phrases, which can then be used for prediction, generation, or classification tasks.
 
