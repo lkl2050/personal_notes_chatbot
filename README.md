@@ -6,9 +6,9 @@
 
 #### Example usage
 Options:
-1. Chat
-2. Query
-3. Search notes
+1. Chat: focus more on conversation history/context than the knowledge base
+2. Query: return relevant content combined and summarized by AI; Focus more on the knowledge base but also combines information from conversation history/context
+3. Search notes: only return most relevant content without narrative processing from AI
 4. Exit
 Debug: User selected option: '1'
 
