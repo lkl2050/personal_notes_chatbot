@@ -10,7 +10,7 @@ Options:
 2. Query: return relevant content combined and summarized by AI; Focus more on the knowledge base but also combines information from conversation history/context
 3. Search notes: only return most relevant content without narrative processing from AI
 4. Exit
-Debug: User selected option: '1'
+Debug: User selected option: '2'
 
 **Processing chat query**: summarize my notes about transformers
 
